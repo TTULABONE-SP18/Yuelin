@@ -1,2 +1,2 @@
-# Yuelin
+# YuelinFreqCounter
 YuelinFreqCounter
